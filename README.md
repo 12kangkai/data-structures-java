@@ -10,9 +10,9 @@
 - 按专题输出教程文档
 
 ## 目录
-- [数组](src/main/java/datastructures/array/docs/array.md)
-- [链表](docs/02-linked-list.md)
-- [栈](docs/03-stack.md)
+- [数组](src/main/java/datastructures/array/docs/Array.md)
+- [链表](src/main/java/datastructures/list/docs/LinkedList.md)
+- [栈](src/main/java/datastructures/stack/docs/Stack.md)
 - [队列](docs/04-queue.md)
 - [哈希表](docs/05-hash-table.md)
 - [树](docs/06-tree.md)
@@ -20,8 +20,8 @@
 
 ## 已完成内容
 - [✅] 数组
-- [ ] 链表
-- [ ] 栈
+- [✅] 链表
+- [✅] 栈
 - [ ] 队列
 - [ ] 哈希表
 - [ ] 树
