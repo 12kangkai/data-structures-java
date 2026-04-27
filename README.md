@@ -14,7 +14,7 @@
 - [链表](src/main/java/datastructures/list/docs/LinkedList.md)
 - [栈](src/main/java/datastructures/stack/docs/Stack.md)
 - [队列](src/main/java/datastructures/queue/docs/Queue.md)
-- [哈希表](docs/05-hash-table.md)
+- [哈希表](src/main/java/datastructures/hash/docs/HashTable.md)
 - [树](docs/06-tree.md)
 - [图](docs/07-graph.md)
 
@@ -23,7 +23,7 @@
 - [✅] 链表
 - [✅] 栈
 - [✅] 队列
-- [ ] 哈希表
+- [✅] 哈希表
 - [ ] 树
 - [ ] 图
 
