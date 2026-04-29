@@ -1,4 +1,4 @@
-# Data Structures in Java
+111# Data Structures in Java
 
 一个用 Java 手动实现常见数据结构与经典题目的学习仓库。
 
@@ -15,16 +15,16 @@
 - [栈](src/main/java/datastructures/stack/docs/Stack.md)
 - [队列](src/main/java/datastructures/queue/docs/Queue.md)
 - [哈希表](src/main/java/datastructures/hash/docs/HashTable.md)
-- [树](docs/06-tree.md)
-- [图](docs/07-graph.md)
+- [树](src/main/java/datastructures/tree/docs/Tree.md)
+- [图](src/main/java/datastructures/tree/docs/Graph.md)
 
 ## 已完成内容
-- [✅] 数组
-- [✅] 链表
-- [✅] 栈
-- [✅] 队列
-- [✅] 哈希表
-- [ ] 树
+- [x] 数组
+- [x] 链表
+- [x] 栈
+- [x] 队列
+- [x] 哈希表
+- [x] 树
 - [ ] 图
 
 ## 运行测试
